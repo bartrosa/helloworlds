@@ -1,0 +1,5 @@
+SQLAlchemy ORM: Total time for 100000 records 28.40114188194275 secs
+SQLAlchemy ORM pk given: Total time for 100000 records 32.40427875518799 secs
+SQLAlchemy ORM bulk_save_objects(): Total time for 100000 records 25.713932991027832 secs
+SQLAlchemy Core: Total time for 100000 records 26.14651870727539 secs
+sqlite3: Total time for 100000 records 26.72587275505066 sec
